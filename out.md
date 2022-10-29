@@ -1,8 +1,13 @@
-# Emojifying your Sentences
+
+# Emojification
+I made this notebook for when I was giving a workshop in collaboration with Google Cloud at the AI+X Summit 2022 in Zurich. This was meant to introduce NLP problems in Deep Learning to the audience. The example we used was a bot that recommends emojis based on the user's input sentence. 
+# Introduction
+The ACE workshop is built around the idea that the best way to learn something new is by getting a hands-on experience. Leanring something new is a journey form where you are now to where you want to be and this workshop is just a vechicle to get you there. We hope that you find it to be a productive and enjoyable learning experience. In this workshop we will walk you through how to build a deep learning model to add fun emojis to sentences.
+
+<span style="color:#FFFFFF">I love this workshop</span>
 
 <span style="color:#FFFFFF">I love this workshop </span>  <span style="color:#000000"> __🥰__ </span>
 
-<span style="color:#FFFFFF">I love this workshop</span>
 
 # How to proceed?
 
