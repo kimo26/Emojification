@@ -141,9 +141,8 @@
 
 # Vectorisation
 
-# Word Embeddings
+## Word Embeddings
 
-# One hot Encoding
 
 <span style="color:#000000">Words are assigned real\-valued vectors</span>
 
@@ -151,17 +150,20 @@
 
 <span style="color:#000000">Similar words are close together</span>
 
+![](img/ok9.png)
+## One hot Encoding
+
+
 <span style="color:#000000">Creating a zero vector with equal then place 1 in the index that corresponds to the word</span>
 
 <span style="color:#000000">Inefficient : most elements are 0</span>
 
-![](img/ok9.png)
 
 ![](img/ok10.png)
 
 # 
 
-# Word Embeddings
+# Recommended - Word Embeddings
 
 * <span style="color:#000000">Represents implicit relationships between words</span>
   * <span style="color:#000000">Helps us gain contextual information</span>
