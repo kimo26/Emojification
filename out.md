@@ -26,7 +26,6 @@
 
 <span style="color:#000000">Very easy to implement</span>
 
-![](img/ok0.png)
 
 ![](img/ok1.jpg)
 
@@ -40,7 +39,6 @@
 
 <span style="color:#000000">Know what will be most useful </span>
 
-![](img/ok2.jpg)
 
 ![](img/ok3.png)
 
